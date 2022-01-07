@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on [B3](https://www.b3.com.br/pt_br/) as an IT Analyst
-- 🌱 I’m currently learning CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript
 <!-- 👯 I’m looking to collaborate on Javascript
 - 🤔 I’m looking for help with CSS Flex/Grid
 - 💬 Ask me about ... -->
