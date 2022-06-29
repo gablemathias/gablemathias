@@ -1,9 +1,5 @@
 ### Hello! 👋
 
-
-
-- 🔭 I’m currently working on [B3](https://www.b3.com.br/pt_br/) as an IT Analyst
-- 🌱 Learning HTML, CSS and Javascript
 - :link: Let's connect! :arrow_right: 
 [LinkedIn](https://www.linkedin.com/in/gabrielgmathias/)
 
