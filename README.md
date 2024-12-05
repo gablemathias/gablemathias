@@ -7,3 +7,4 @@ I am a tech aficcionado in tests and currently diving deep into cloud technologi
 - Contact: gablemathias@icloud.com
 - :link: Let's connect! :arrow_right: 
 [LinkedIn](https://www.linkedin.com/in/gabrielgmathias/)
+[Dev.to - Blog](https://dev.to/gablemathias)
